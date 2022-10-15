@@ -8,3 +8,7 @@
 
 ### top_tracks.py
 <a href="https://github.com/plamere/spotipy/blob/master/examples/my_top_tracks.py">よく聴く曲を表示する</a>
+
+
+## my_pystray
+<a href="https://qiita.com/bassan/items/3025eeb6fd2afa03081b">Windows のタスクトレイに Python アプリを常駐させ定期的にプログラムを実行する</a>
