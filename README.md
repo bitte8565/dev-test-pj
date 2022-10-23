@@ -2,6 +2,8 @@
 サンプルコードを供養するリポジトリ
 
 ## my_spotify
+<a href="https://spotipy.readthedocs.io/en/master/">python spotipy reference</a>
+
 ### add_playlist_current_playing.py
 <a href="https://qiita.com/qope/items/332a250f8dc6dc6f10d1">Spotifyで聴いた曲を全部プレイリストに保存する</a>
 
