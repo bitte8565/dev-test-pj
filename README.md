@@ -1,7 +1,6 @@
 [![Run pytest](https://github.com/kotenbu135/dev-test-pj/actions/workflows/test_fizzbuzz.yml/badge.svg)](https://github.com/kotenbu135/dev-test-pj/actions/workflows/test_fizzbuzz.yml)
-https://img.shields.io/github/languages/code-size/kotenbu135/dev-test-pj
-https://img.shields.io/github/license/kotenbu135/dev-test-pj
-https://img.shields.io/github/commit-activity/y/kotenbu135/dev-test-pj\
+![Run pytest](https://img.shields.io/github/languages/code-size/kotenbu135/dev-test-pj)
+![Run pytest](https://img.shields.io/github/license/kotenbu135/dev-test-pj)
 
 # dev-test-pj
 サンプルコードを供養するリポジトリ
