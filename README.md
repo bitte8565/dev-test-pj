@@ -1,3 +1,6 @@
+[![Run pytest](https://github.com/kotenbu135/dev-test-pj/actions/workflows/test_fizzbuzz.yml/badge.svg)](https://github.com/kotenbu135/dev-test-pj/actions/workflows/test_fizzbuzz.yml)
+
+
 # dev-test-pj
 サンプルコードを供養するリポジトリ
 
